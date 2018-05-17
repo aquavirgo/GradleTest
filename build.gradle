@@ -54,3 +54,4 @@ task hello (type : Greeting) {
     message 'Hello'
     recipient 'World'
 }
+apply plugin: 'android-reporting'
