@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GradleTest</string>
+    <string name="witaj">Hello World!</string>
+</resources>
